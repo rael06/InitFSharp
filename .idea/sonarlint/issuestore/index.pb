@@ -11,7 +11,5 @@ B
 FSharp/Tuto7.fsx,e/8/e8fe0d1442b208a15a5e74074fd8723deee1aec5
 =
 CSharp/Add.cs,f/1/f17d080bbf2fe56194a8116dcbf3b426b96c6906
-@
-FSharp/Tuto8.fsx,2/f/2f11d3c2d067c9e017e452b4cb5114957f38390e
 D
 CSharp/MyDelegate.cs,a/4/a4a28ebf99ed8ee3d8463827f87d1ce07b8d1ed3
