@@ -32,4 +32,4 @@ let isLowercaseValid = chars |> List.contains CharType.Lowercase
 let isSpecialCharValid = chars |> List.contains CharType.SpecialChar
 let isLengthValid = chars |> List.length >= 8
 
-printfn $"Is password valid: %A{isNumberValid && isUppercaseValid && isLowercaseValid && isSpecialCharValid}"
+printfn $"Is password valid: %A{isNumberValid && isUppercaseValid && isLowercaseValid && isSpecialCharValid && isLengthValid}"
