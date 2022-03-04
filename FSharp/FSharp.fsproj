@@ -25,6 +25,11 @@
       <None Include="TP.fsx" />
       <None Include="Tuto10.fsx" />
       <None Include="Tuto11.fsx" />
+      <None Include="Tuto13.fsx" />
+      <None Include="Tuto14.fsx" />
+      <None Include="Tuto12.fsx" />
+      <None Include="Tuto15.fsx" />
+      <None Include="Tuto16.fsx" />
     </ItemGroup>
 
 </Project>
